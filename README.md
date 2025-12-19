@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Khalid Ibrahim 👋
 
-<!--
-**KhalidIbrahem/khalidibrahem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & AI Researcher  
+Focused on applied Machine Learning, Data Science, and Music AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Exploring **Deep Learning, Music AI, and Ethnomusicology**
+- Interested in **Data Science, ML systems, and applied AI**
+- Building practical projects with clean, reproducible code
+- Passionate about technology with cultural impact
+
+> I value clarity, reproducibility, and real-world impact in AI systems.
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript  
+- **Data & ML:** NumPy, Pandas, Scikit-learn, Jupyter  
+- **Backend & Web:** Node.js  
+- **Tools:** Git, GitHub, Docker, Linux
+
+---
+
+## Current Focus
+
+- Music Information Retrieval (MIR)
+- Applied Machine Learning systems
+- Data-driven cultural analysis
+
+---
+
+📫 Feel free to explore my repositories and connect.

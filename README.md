@@ -19,7 +19,7 @@ Focused on applied Machine Learning, Data Science, and Music AI
 ## Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript  
-- **Data & ML/DL:** NumPy, Pandas, Scikit-learn, Jupyter, Pytorch  
+- **Data & ML/DL:** NumPy, Pandas, Scikit-learn, Jupyter, PyTorch/TensorFlow, Librosa
 - **Backend & Web:** Node.js  
 - **Tools:** Git, GitHub, Docker, Linux
 

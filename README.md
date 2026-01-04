@@ -34,3 +34,4 @@ Focused on applied Machine Learning, Data Science, and Music AI
 ---
 
 📫 Feel free to explore my repositories and connect.
+https://qaraamigen-ai.vercel.app/

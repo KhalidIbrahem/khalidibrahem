@@ -1,4 +1,4 @@
-# Hi, I'm Khalid Ibrahim 👋 
+
 <div align="center">
   <img src="https://github.com/KhalidIbrahem/khalidibrahem/blob/main/QaraamiGen%20Ai-li-profile-photo-400-400.jpeg" width="100" height="100" alt="QaraamiGen AI Logo">
   
@@ -11,6 +11,8 @@
 </div>
 
 ---
+# Hi, I'm Khalid Ibrahim 👋 
+
 ### Software Developer & AI Researcher | Specializing in Music Information Retrieval (MIR)
 
 I am deeply committed to the intersection of **Deep Learning**, **Ethnomusicology**, and **Digital Preservation**. My lifelong mission is to build computational frameworks that protect and celebrate the rich, microtonal traditions of Somali music through modern AI architectures.

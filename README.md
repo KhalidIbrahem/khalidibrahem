@@ -1,4 +1,16 @@
 # Hi, I'm Khalid Ibrahim 👋 
+<div align="center">
+  <img src="https://qaraamigen-ai.vercel.app/logo.png" width="100" height="100" alt="QaraamiGen AI Logo">
+  
+  # 🎼 Qaraami-Gen-AI
+  **The Future of Somali Microtonal Music & Deep Learning**
+
+  [![Music AI](https://img.shields.io/badge/Music_AI-Deep_Learning-8A2BE2?style=for-the-badge&logo=soundcharts&logoColor=white)](https://github.com/Qaraami-Al-Research)
+  [![Generative AI](https://img.shields.io/badge/Generative_AI-Transformers-FF69B4?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Qaraami-Al-Research)
+  [![Ethnomusicology](https://img.shields.io/badge/Ethnomusicology-Preservation-00A67E?style=for-the-badge&logo=cultural-learning&logoColor=white)](https://github.com/Qaraami-Al-Research)
+</div>
+
+---
 ### Software Developer & AI Researcher | Specializing in Music Information Retrieval (MIR)
 
 I am deeply committed to the intersection of **Deep Learning**, **Ethnomusicology**, and **Digital Preservation**. My lifelong mission is to build computational frameworks that protect and celebrate the rich, microtonal traditions of Somali music through modern AI architectures.

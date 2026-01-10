@@ -1,6 +1,6 @@
 # Hi, I'm Khalid Ibrahim 👋 
 <div align="center">
-  <img src="https://qaraamigen-ai.vercel.app/logo.png" width="100" height="100" alt="QaraamiGen AI Logo">
+  <img src="https://github.com/KhalidIbrahem/khalidibrahem/blob/main/QaraamiGen%20Ai-li-profile-photo-400-400.jpeg" width="100" height="100" alt="QaraamiGen AI Logo">
   
   # 🎼 Qaraami-Gen-AI
   **The Future of Somali Microtonal Music & Deep Learning**
